@@ -1,1 +1,1 @@
-# second-project
+# second-projectНовая строка для демонстрации
